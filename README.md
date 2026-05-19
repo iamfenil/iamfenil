@@ -1,77 +1,88 @@
 <h1 align="center">Fenil Dhorajiya</h1>
 
 <p align="center">
-  Digital marketer and builder working at the intersection of Shopify, SEO, AI automation, and ecommerce growth.
+  Founder at Indiibot · Shopify SEO Builder · AI Automation · Ecommerce Growth Systems
+</p>
+
+<p align="center">
+  <img alt="Shopify SEO" src="https://img.shields.io/badge/Shopify_SEO-0B5C4C?style=for-the-badge&logo=shopify&logoColor=white">
+  <img alt="AI Automation" src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge">
+  <img alt="Digital Marketing" src="https://img.shields.io/badge/Digital_Marketing-2563EB?style=for-the-badge">
+  <img alt="Ecommerce" src="https://img.shields.io/badge/Ecommerce_Growth-7C3AED?style=for-the-badge">
 </p>
 
 <p align="center">
   <a href="https://github.com/iamfenil">GitHub</a>
   ·
-  <span>Shopify SEO</span>
+  <span>Surat, India</span>
   ·
-  <span>AI Automation</span>
-  ·
-  <span>Ecommerce Growth</span>
+  <span>Building tools for ecommerce operators</span>
 </p>
 
 ---
 
-## About Me
+## What I Do
 
-I build practical growth systems for ecommerce brands. My main focus is turning SEO, content, analytics, and automation into tools that store owners and marketers can actually use every day.
+I build practical growth systems for ecommerce brands: SEO workflows, Shopify tools, AI automation, content systems, and market intelligence.
 
-Right now I am building **amazing SEO**, a Shopify embedded app for managing product SEO, meta tags, alt text, image SEO, schema, broken links, sitemaps, keyword research, and Google Search Console workflows from inside Shopify admin.
+My work sits between marketing and product building. I like turning repeatable digital marketing work into software, automations, and operating systems that make brands easier to grow.
 
-## Current Focus
+## Now Building
 
-- Building a real Shopify SEO app for live store use
-- Connecting Shopify Admin API data with SEO scoring and bulk editing
-- Adding Google OAuth for Search Console, Analytics, sitemap, and keyword reports
-- Creating custom AI provider settings so users can bring their own API key
-- Building SEO workflows for Ronora Diamond and product-based ecommerce brands
+### amazing SEO
 
-## What I Work On
+A Shopify embedded SEO app for merchants who want to manage store SEO from inside Shopify admin.
 
-| Area | What I Build |
-| --- | --- |
-| Shopify SEO | Product audits, meta tags, alt text, image SEO, schema, redirects, sitemap workflows |
-| Ecommerce Growth | Keyword research, content systems, product optimization, competitor research |
-| AI Automation | AI-assisted SEO generation, workflow tools, prompt systems, custom AI provider setup |
-| Market Intelligence | Website research, competitor analysis, product positioning, opportunity mapping |
-
-## Main Build: amazing SEO
-
-**amazing SEO** is a Shopify SEO tool designed to help merchants audit, improve, and automate SEO directly inside Shopify.
+The goal is to connect real Shopify catalog data with SEO scoring, bulk editing, Google Search Console, analytics, AI generation, schema, broken links, sitemaps, and image SEO.
 
 Core modules:
 
-- SEO Audit
-- Meta Tags
-- Alt Tags
-- Image File Rename
-- Image Optimization
-- Page Speed
-- Keyword Research
-- JSON-LD Schema
-- Broken Links
-- Backlinks
-- Sitemap Management
-- Google Search Console integration
-- Custom AI API settings
+| Module | Purpose |
+| --- | --- |
+| SEO Audit | Score products, collections, blogs, articles, and pages |
+| Meta Tags | Generate and edit SEO titles, descriptions, and previews |
+| Alt Tags | Audit and improve image alt text |
+| Image SEO | Rename files, optimize images, track savings |
+| JSON-LD | Add structured data through Shopify theme extension |
+| Broken Links | Crawl store URLs, detect 404s, create redirects |
+| Keyword Research | Connect Search Console and monitor queries/pages |
+| Sitemap | Submit sitemap and manage indexed resources |
 
-## Toolbox
+## Focus Areas
 
-**Marketing:** SEO, ecommerce strategy, keyword research, content optimization, competitor research, Meta Ads  
-**Shopify:** Admin API, embedded apps, product SEO, theme extensions, JSON-LD, redirects  
-**AI:** AI content generation, automation workflows, prompt systems, custom API integrations  
-**Technical:** JavaScript, TypeScript, React, React Router, Prisma, SQLite/Postgres, GitHub, Render  
+| Area | What I Work On |
+| --- | --- |
+| Shopify | Admin API, embedded apps, theme extensions, product SEO, redirects |
+| SEO | Technical audits, keyword research, content optimization, schema, sitemaps |
+| AI | AI-assisted SEO generation, custom API providers, workflow automation |
+| Ecommerce | Product positioning, competitor research, content systems, growth strategy |
+| Automation | Apify actors, research pipelines, data extraction, operating dashboards |
 
-## Operating Style
+## Current Project Context
 
-- Build useful tools before chasing vanity features
-- Keep SEO practical, measurable, and merchant-friendly
-- Use AI to speed up real workflows, not replace strategy
-- Document systems so projects become easier to improve over time
+- Founder and CEO at **Indiibot Technology LLP**
+- Building SEO and growth systems for **Ronora Diamond**
+- Creating tools around Shopify SEO, Google Search Console, image SEO, and AI content generation
+- Organizing project knowledge through a Work Brain / Obsidian system
+
+## Stack
+
+```text
+Marketing:  SEO, ecommerce strategy, keyword research, Meta Ads, content systems
+Shopify:    Admin API, GraphQL, embedded apps, theme extensions, JSON-LD
+Frontend:   React, TypeScript, React Router, Polaris-style admin UX
+Backend:    Prisma, SQLite/Postgres, Node.js, OAuth, webhooks
+AI:         Prompt systems, custom AI providers, SEO generation workflows
+Deploy:     GitHub, Render, Shopify CLI
+Research:   Apify, competitor intelligence, website analysis
+```
+
+## How I Work
+
+- Build tools that solve real operational problems
+- Keep SEO measurable, practical, and merchant-friendly
+- Use AI to speed up workflows while keeping human review where it matters
+- Document the system so every project becomes easier to improve
 
 ---
 
