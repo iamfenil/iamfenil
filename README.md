@@ -32,7 +32,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 
 - **amazing SEO**: Shopify SEO app for audits, meta tags, alt text, schema, broken links, sitemaps, and Google Search Console workflows
 - **Work Brain**: Obsidian-based second brain for project memory, research, strategy, and execution
-- **Research actors**: Etsy ranking tracker, Instagram content intelligence, competitor website scraper, brand research pipelines
+- **Research actors**: Etsy ranking tracker, Etsy shop audit, Pinterest keyword planner, Instagram content intelligence, competitor website scraper, brand research pipelines
 - **Content systems**: SEO blogs, product descriptions, viral scripts, hooks, calendars, and brand storytelling
 
 ## Active Builds
@@ -45,7 +45,9 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Ronora Diamond | Jewellery growth system: Etsy SEO, Shopify SEO, product content, market research |
 | NicheLens | Instagram niche research and viral content intelligence app |
 | Website Intelligence Scraper | Competitor website analysis for AI-assisted rebuilding |
-| Etsy SERP Tracker | Etsy keyword and ranking automation actor |
+| Etsy SERP Tracker + Marketplace Insights | Apify actor for Etsy keyword rank tracking, competitor SERP scans, and logged-in Marketplace Insights SEO research |
+| Etsy Shop Audit Actor | Private Apify actor for public Etsy shop/listing/review audits, product segmentation, pricing patterns, badge patterns, review pain points, and JSON/CSV/Excel exports |
+| Pinterest Keyword Planner Actor | Private Apify actor for Pinterest keyword research across any niche with region support, demand estimates, difficulty, competition, and API-ready enrichment |
 
 ## Brand Work
 
