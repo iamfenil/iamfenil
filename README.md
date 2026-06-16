@@ -40,6 +40,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Project | What it is |
 | --- | --- |
 | [Indiibot](https://indiibot.com) | AI-powered brand growth agency and my strongest portfolio piece |
+| Indiibot OS | Internal ops system: Telegram bot + web dashboard for finance, CRM, tasks, reminders, and GST/non-GST invoicing — live on Railway (private repo) |
 | amazing SEO | Shopify SEO app built for real store optimization |
 | Ronora Diamond | Jewellery growth system: Etsy SEO, Shopify SEO, product content, market research |
 | NicheLens | Instagram niche research and viral content intelligence app |
