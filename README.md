@@ -46,7 +46,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | NicheLens | Instagram niche research and viral content intelligence app |
 | Website Intelligence Scraper | Competitor website analysis for AI-assisted rebuilding |
 | Etsy SERP Tracker + Marketplace Insights | Apify actor for Etsy keyword rank tracking, competitor SERP scans, and logged-in Marketplace Insights SEO research |
-| Etsy Shop Audit Actor | Private Apify actor for public Etsy shop/listing/review audits, product segmentation, pricing patterns, badge patterns, review pain points, and JSON/CSV/Excel exports |
+| Etsy Shop Audit Actor | Private Apify actor for hybrid Etsy shop audits using direct scrape, Chrome export, or third-party Apify dataset inputs, with coverage scoring, product segmentation, pricing patterns, badge patterns, review pain points, and JSON/CSV/Excel exports |
 | Pinterest Keyword Planner Actor | Private Apify actor for Pinterest keyword research across any niche with region support, demand estimates, difficulty, competition, and API-ready enrichment |
 
 ## Brand Work
