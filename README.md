@@ -32,7 +32,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 
 - **amazing SEO**: Shopify SEO app for audits, meta tags, alt text, schema, broken links, sitemaps, and Google Search Console workflows
 - **Work Brain**: Obsidian-based second brain for project memory, research, strategy, and execution
-- **Research actors**: Etsy ranking tracker, Etsy shop audit, Pinterest keyword planner, Instagram content intelligence, competitor website scraper, brand research pipelines
+- **Research actors and browser tools**: Etsy ranking tracker, Etsy shop audit, Etsy Chrome scraper extension, Pinterest keyword planner, Instagram content intelligence, competitor website scraper, brand research pipelines
 - **Content systems**: SEO blogs, product descriptions, viral scripts, hooks, calendars, and brand storytelling
 
 ## Active Builds
@@ -47,6 +47,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Website Intelligence Scraper | Competitor website analysis for AI-assisted rebuilding |
 | Etsy SERP Tracker + Marketplace Insights | Apify actor for Etsy keyword rank tracking, competitor SERP scans, and logged-in Marketplace Insights SEO research |
 | Etsy Shop Audit Actor | Private Apify actor for hybrid Etsy shop audits using direct scrape, Chrome export, or third-party Apify dataset inputs, with coverage scoring, product segmentation, pricing patterns, badge patterns, review pain points, and JSON/CSV/Excel exports |
+| Etsy Chrome Scraper Extension | Private Chrome MV3 extension for scraping visible Etsy shop, listing, and review data from a real browser session with JSON/CSV exports and fixture-tested extraction |
 | Pinterest Keyword Planner Actor | Private Apify actor for Pinterest keyword research across any niche with region support, demand estimates, difficulty, competition, scored pin title ideas, and API-ready enrichment |
 
 ## Brand Work
