@@ -40,7 +40,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Project | What it is |
 | --- | --- |
 | [Indiibot](https://indiibot.com) | AI-powered brand growth agency and my strongest portfolio piece |
-| Indiibot OS | Internal ops system: Telegram bot + web dashboard for finance, CRM, tasks, reminders, and GST/non-GST invoicing — live on Railway (private repo) |
+| Indiibot OS | Internal ops system: Telegram bot + web dashboard for finance, CRM, tasks, reminders, and GST/non-GST invoicing. Live on Railway (private repo) |
 | amazing SEO | Shopify SEO app built for real store optimization |
 | Ronora Diamond | Jewellery growth system: Etsy SEO, Shopify SEO, product content, market research |
 | NicheLens | Instagram niche research and viral content intelligence app |
@@ -48,6 +48,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Etsy SERP Tracker + Marketplace Insights | Apify actor for Etsy keyword rank tracking, competitor SERP scans, and logged-in Marketplace Insights SEO research |
 | Etsy Shop Audit Actor | Private Apify actor for hybrid Etsy shop audits using direct scrape, Chrome export, or third-party Apify dataset inputs, with coverage scoring, product segmentation, pricing patterns, badge patterns, review pain points, and JSON/CSV/Excel exports |
 | Etsy Chrome Scraper Extension | Private Chrome MV3 extension for parallel scraping visible Etsy shop, listing, metadata, shipping, media, and review data from a real browser session with JSON/CSV exports, saved history, and fixture-tested extraction |
+| Etsy Rank Finder Extension | Private Chrome MV3 extension for checking RonoraDiamond Etsy keyword rank by search sort, country, max pages, page position, listing URL, and CSV/JSON exports |
 | Pinterest Keyword Planner Actor | Private Apify actor for Pinterest keyword research across any niche with region support, demand estimates, difficulty, competition, scored pin title ideas, and API-ready enrichment |
 
 ## Brand Work
