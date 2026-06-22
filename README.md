@@ -48,7 +48,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Etsy SERP Tracker + Marketplace Insights | Apify actor for Etsy keyword rank tracking, competitor SERP scans, and logged-in Marketplace Insights SEO research |
 | Etsy Shop Audit Actor | Private Apify actor for hybrid Etsy shop audits using direct scrape, Chrome export, or third-party Apify dataset inputs, with coverage scoring, product segmentation, pricing patterns, badge patterns, review pain points, and JSON/CSV/Excel exports |
 | Etsy Chrome Scraper Extension | Private Chrome MV3 extension for parallel scraping visible Etsy shop, listing, metadata, shipping, media, and review data from a real browser session with JSON/CSV exports, saved history, and fixture-tested extraction |
-| Etsy Rank Finder Extension | Private Chrome MV3 extension for checking RonoraDiamond Etsy keyword rank by search sort, country, max pages, page position, listing URL, and CSV/JSON exports |
+| Etsy Rank Finder Extension | Private Chrome MV3 extension for checking RonoraDiamond Etsy keyword rank with target-shop listing ID matching, faster parallel page scans, search sort, country, page position, listing URL, and CSV/JSON exports |
 | Pinterest Keyword Planner Actor | Private Apify actor for Pinterest keyword research across any niche with region support, demand estimates, difficulty, competition, scored pin title ideas, and API-ready enrichment |
 
 ## Brand Work
