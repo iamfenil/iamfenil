@@ -31,6 +31,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 ## What I Build With AI
 
 - **amazing SEO**: Shopify SEO app for audits, meta tags, alt text, schema, broken links, sitemaps, and Google Search Console workflows
+- **Indiibot Branding Agents**: AI agent suite that automates brand identity creation. Takes a client brief, researches the industry, generates name ideas with scoring, logo concept directions with Midjourney prompts, color palettes, typography systems, brand voice frameworks, and taglines
 - **Work Brain**: Obsidian-based second brain for project memory, research, strategy, and execution
 - **Research actors and browser tools**: Etsy ranking tracker, Etsy shop audit, Etsy Chrome scraper extension, Pinterest keyword planner, Instagram content intelligence, competitor website scraper, brand research pipelines
 - **Content systems**: SEO blogs, product descriptions, viral scripts, hooks, calendars, and brand storytelling
@@ -41,6 +42,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | --- | --- |
 | [Indiibot](https://indiibot.com) | AI-powered brand growth agency and my strongest portfolio piece |
 | Indiibot OS | Internal ops system: Telegram bot + web dashboard for finance, CRM, tasks, reminders, and GST/non-GST invoicing. Live on Railway (private repo) |
+| [Indiibot Branding Agents](https://github.com/iamfenil/indiibot-branding-agents) | AI agent suite for brand identity creation: names, logo concepts, color palettes, typography, brand voice, and taglines. Built with Claude API + Python |
 | amazing SEO | Shopify SEO app built for real store optimization |
 | Ronora Diamond | Jewellery growth system: Etsy SEO, Shopify SEO, product content, market research |
 | NicheLens | Instagram niche research and viral content intelligence app |
@@ -58,7 +60,7 @@ Ronora Diamond · Auric Charms · Willingly Skincare · Nalandii · Aroma the Ki
 
 ## Stack
 
-Shopify Admin API · React · TypeScript · Prisma · Node.js · GitHub · Render · Apify · Obsidian · SEO · Meta Ads · AI workflows
+Shopify Admin API · React · TypeScript · Prisma · Node.js · GitHub · Render · Apify · Obsidian · SEO · Meta Ads · AI workflows · Claude API · Python
 
 ## Why I Build
 
