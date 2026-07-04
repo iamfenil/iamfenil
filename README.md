@@ -53,6 +53,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | Etsy Chrome Scraper Extension | Private Chrome MV3 extension for parallel scraping visible Etsy shop, listing, public sold-listing rows, metadata, shipping, media, and review data from a real browser session, now enriched with Etsy Open API verified tags, materials, taxonomy, favorer count, API reviews, media, SEO term summaries, API quota cooldown handling, custom export-name filenames, JSON/CSV exports, saved history, and fixture-tested extraction |
 | Etsy Rank Finder Extension | Private Chrome MV3 extension for checking RonoraDiamond Etsy keyword rank with target-shop listing ID matching, faster parallel page scans, search sort, country, page position, listing URL, and CSV/JSON exports |
 | Etsy Search SEO Scraper Extension | Private Chrome MV3 extension for Etsy listing keyword campaigns and one-listing API tests using product focus, short keyword variants, ranked competitor listings, non-blocking Etsy API tag/review enrichment with quota cooldown handling, detail crawl diagnostics, API-preferred listing exports, verified Etsy API tags/reviews/search counts, Bestseller/Etsy Pick/Popular now signals, opportunity scoring, custom export-name filenames, and workbook/JSON/CSV exports |
+| Ronora Extension Data API | Private Cloudflare Workers + D1 API that stores Chrome extension JSON exports from Etsy shop scraping, SEO scraping, and rank finding, then exposes authenticated run, item, report, OpenAPI, and AI-context endpoints without changing the original extensions |
 | Pinterest Keyword Planner Actor | Private Apify actor for Pinterest keyword research across any niche with region support, demand estimates, difficulty, competition, scored pin title ideas, and API-ready enrichment |
 
 ## Brand Work
@@ -61,7 +62,7 @@ Ronora Diamond · Auric Charms · Willingly Skincare · Nalandii · Aroma the Ki
 
 ## Stack
 
-Shopify Admin API · React · TypeScript · Prisma · Node.js · GitHub · Render · Apify · Obsidian · SEO · Meta Ads · AI workflows · Claude API · Python
+Shopify Admin API · React · TypeScript · Prisma · Node.js · Cloudflare Workers · D1 · GitHub · Render · Apify · Obsidian · SEO · Meta Ads · AI workflows · Claude API · Python
 
 ## Why I Build
 
