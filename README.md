@@ -46,6 +46,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | [Indiibot Branding Agents](https://github.com/iamfenil/indiibot-branding-agents) | AI agent suite for brand identity creation: names, logo concepts, color palettes, typography, brand voice, and taglines. Built with Claude API + Python |
 | [Indiibot Marketing Agents](https://github.com/iamfenil/indiibot-marketing-agents) | SEOfy, an AI marketing intelligence agent: SEO audits, GEO/AEO for AI search, Meta Ads strategy, content strategy, and full marketing plans. Runs as a native Claude Code skill |
 | amazing SEO | Shopify SEO app built for real store optimization |
+| Shopify Listing Studio | Private local Shopify Admin tool for Ronora draft product creation, 11-metal jewelry pricing, fixed and multi-carat variants, duplicate SKU lookup, target-net-profit pricing, and verified price-only updates |
 | Ronora Diamond | Jewellery growth system: Etsy SEO, Shopify SEO, product content, market research |
 | NicheLens | Instagram niche research and viral content intelligence app |
 | Website Intelligence Scraper | Competitor website analysis for AI-assisted rebuilding |
