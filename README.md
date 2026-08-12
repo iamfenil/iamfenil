@@ -32,6 +32,7 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 
 - **amazing SEO**: Shopify SEO app for audits, meta tags, alt text, schema, broken links, sitemaps, and Google Search Console workflows
 - **Indiibot Branding Agents**: AI agent suite that automates brand identity creation. Takes a client brief, researches the industry, generates name ideas with scoring, logo concept directions with Midjourney prompts, color palettes, typography systems, brand voice frameworks, and taglines
+- **Indiibot Marketing Agents (SEOfy)**: AI marketing intelligence agent covering SEO audits, GEO/AEO for AI search visibility, Meta Ads strategy under the 2026 Andromeda system, content and social strategy, and full 90-day marketing plans, grounded in a maintained knowledge base instead of stale training-cutoff answers
 - **Work Brain**: Obsidian-based second brain for project memory, research, strategy, and execution
 - **Research actors and browser tools**: Etsy ranking tracker, Etsy shop audit, Etsy Chrome scraper extension, Pinterest keyword planner, Instagram content intelligence, competitor website scraper, brand research pipelines
 - **Content systems**: SEO blogs, product descriptions, viral scripts, hooks, calendars, and brand storytelling
@@ -43,7 +44,9 @@ I work where marketing becomes software: SEO systems, Shopify tools, AI workflow
 | [Indiibot](https://indiibot.com) | AI-powered brand growth agency and my strongest portfolio piece |
 | Indiibot OS | Internal ops system: Telegram bot + web dashboard for finance, CRM, tasks, reminders, and GST/non-GST invoicing. Live on Railway (private repo) |
 | [Indiibot Branding Agents](https://github.com/iamfenil/indiibot-branding-agents) | AI agent suite for brand identity creation: names, logo concepts, color palettes, typography, brand voice, and taglines. Built with Claude API + Python |
+| [Indiibot Marketing Agents](https://github.com/iamfenil/indiibot-marketing-agents) | SEOfy, an AI marketing intelligence agent: SEO audits, GEO/AEO for AI search, Meta Ads strategy, content strategy, and full marketing plans. Runs as a native Claude Code skill |
 | amazing SEO | Shopify SEO app built for real store optimization |
+| Shopify Listing Studio | Private local Shopify Admin tool for Ronora draft product creation, 11-metal jewelry pricing, fixed and multi-carat variants, duplicate SKU lookup, target-net-profit pricing, and verified price-only updates |
 | Ronora Diamond | Jewellery growth system: Etsy SEO, Shopify SEO, product content, market research |
 | NicheLens | Instagram niche research and viral content intelligence app |
 | Website Intelligence Scraper | Competitor website analysis for AI-assisted rebuilding |
